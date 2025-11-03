@@ -6,6 +6,7 @@ This practical guides you through:
 4) Assessing significance with a Z-score (vs. random expectation) and two-tailed p-value.
 5) Characterizing disease genes via centrality metrics and finding the most central genes/diseases.
 6) Some (very) basic network visualisation with NetworkX
+7) Compute average shortest paths between drugs and diseases
 
 
 Files in data/
